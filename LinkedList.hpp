@@ -29,9 +29,14 @@ bool LinkedList<T>::isEmpty() const
 template <typename T>
 int LinkedList<T>::size() const
 {
-	/** TODO 
-		Fix this method
-	*/
+	if(isEmpty())
+	{
+		std::cout<<"List is empty";
+	}
+	else
+	{
+		return(m_size);
+	}
 	return(0);
 }
 
