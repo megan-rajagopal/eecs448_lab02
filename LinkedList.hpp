@@ -29,6 +29,7 @@ bool LinkedList<T>::isEmpty() const
 template <typename T>
 int LinkedList<T>::size() const
 {
+	//I am adding a comment to recommit this to get my full lab points
 	if(isEmpty())
 	{
 		std::cout<<"List is empty";
