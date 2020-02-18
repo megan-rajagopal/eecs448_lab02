@@ -44,6 +44,7 @@ int LinkedList<T>::size() const
 template <typename T>
 bool LinkedList<T>::search(T value) const
 {
+	//I am adding another comment, this method was the worst one, even in 268
 	Node<T>* temp = m_front;
 	bool isFound = false;
 	for(int i=0;i<m_size;i++)
