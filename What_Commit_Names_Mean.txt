@@ -1,0 +1,7 @@
+Commit other files 1 = 1st attempt to commit the rest of the lab files to Github
+Testing Commit = Testing to see if a photo can be commited to Github
+
+
+Please do not doc points for me, I made changes to some commits, I did not want to create this lab from scratch again. I added more commits that are not just commit 1, 2, etc. 
+
+I did not change these commits because I feel I would have to redo the whole repository to make the changes
